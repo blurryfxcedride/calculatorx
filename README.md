@@ -1,2 +1,2 @@
 # Calculator X
-### Disclaimer: Calculator X is in very early access.
+A simple to use Calculator for MacOS.
